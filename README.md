@@ -1,36 +1,8 @@
-```markdown
-# Hangman Game
-
-A simple implementation of the classic Hangman game in Python.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Code Explanation](#code-explanation)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Overview
-
-This is a basic implementation of the Hangman game, where the player guesses letters to figure out a hidden word. The game features a simple graphical representation of the hangman and keeps track of the player's score based on incorrect guesses.
-
-## Features
-
-- Randomly selects a word from a provided list.
-- Displays the current state of the hangman model and the guessed letters.
-- Allows the player to guess letters and tracks the number of wrong guesses.
-- Confirms before quitting the game.
-- Shows the remaining time in minutes and seconds during the game.
-
-## Installation
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Hangman.git
+   git clone https://github.com/CharlesKaleci/Hangman.git
    ```
 
 2. **Navigate into the project directory**:
