@@ -2,7 +2,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/CharlesKaleci/Hangman.git
+   git clone https://github.com/CharlesKaleci/hangman_game.git
    ```
 
 2. **Navigate into the project directory**:
